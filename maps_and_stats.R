@@ -6,7 +6,7 @@ library(readxl)
 library(cowplot)
 
 #working directory for country images
-setwd("/Users/Augusto/Desktop/TwinStuff")
+setwd("your directory for the jpgs and the twin_rate_data.csv file")
 
 #import twinning rate data
 worldgovt <- read_csv("twin_rate_data.csv")
@@ -48,7 +48,7 @@ for(i in 1:39){
 ########## MAPS
 
 #working directory for world shapefile
-setwd("/Users/Augusto/Desktop/twinship paper/supplement/world-administrative-boundaries")
+setwd("shapefile directory")
 
 #shapefile name
 world_shp <- "world-administrative-boundaries.shp"
@@ -69,7 +69,7 @@ twin_df <- worldgovt %>%
 africa <- left_join(africa_df, twin_df, by = "name")
 
 #retrieve global twinning data
-setwd("/Users/Augusto/Desktop/twinship paper/supplement")
+setwd("directory for world_list_data.xlsx")
 world_data <- read_excel("world_list_data.xlsx")
 
 #merge with global spatial data
