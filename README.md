@@ -16,7 +16,7 @@ The repository contains two R scripts, a ZIP file containing 40 JPGs representin
 ### images.zip
 
 ZIP file containing 40 JPGs used in the maps_and_stats R script to generate the geminophilia index displayed in Figure 1C in the manuscript and used for regression analysis with twinning rates data.
-The JPGs are scraped from Figure 4 in Fenske and Wang (2023). Tradition and mortality: Evidence from twin infanticide in Africa. Journal of Development Economics. https://doi.org/10.1016/j.jdeveco.2023.103094.
+The JPGs were scraped from Figure 4 in Fenske and Wang (2023). Tradition and mortality: Evidence from twin infanticide in Africa. Journal of Development Economics. https://doi.org/10.1016/j.jdeveco.2023.103094, which is distributed under a [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/) license, allowing adaptation and transformation of the content.
 
 ### world-administrative-boundaries.zip
 
