@@ -19,6 +19,7 @@ The repository contains two R scripts, a series of 40 JPGs representing African 
 
 Spatial dataset including global administrative boundaries at the country-level. 
 Retrieved from [Datasoft](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/information/) and distributed under [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+The spatial dataset is in shapefile format and is composed of 4 files with different extensions that need to be stored in the same directory: dbf (attributes), prj (projection), shx (shapefile index), and shp (shapefile).
 
 ### twin_rate_data.csv and world_list_data.xlsx
 
