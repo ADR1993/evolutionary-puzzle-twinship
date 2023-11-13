@@ -37,7 +37,7 @@ To do so, it needs to import the files world_list_data.xlsx and twin_rate_data.c
 ### pregnancy_plot.R
 
 pregnancy_plot.R generates Figure 3, located in Box 3 of the manuscript.
-It defines a mathematical function and plots it for different $a$ and $p$ parameter values.
+It defines a mathematical function and plots it for different $P$ and $x$ parameter values.
 
 
 
