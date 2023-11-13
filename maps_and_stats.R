@@ -5,11 +5,8 @@ library(wesanderson)
 library(readxl)
 library(cowplot)
 
-#working directory for country images
-setwd("your directory for the jpgs and the twin_rate_data.csv file")
-
-#import twinning rate data
-worldgovt <- read_csv("twin_rate_data.csv")
+#import csv containing twinning rates in Africa (from Smits & Monden, 2011)
+worldgovt <- read_csv("twinning_rates_africa.csv")
 
 #construct empty twinship columns for the loop
 worldgovt$twin_love <- worldgovt$twin_neut <- worldgovt$twin_kill <- worldgovt$twin_sum <- NA
@@ -47,9 +44,6 @@ for(i in 1:39){
 
 ########## MAPS
 
-#working directory for world shapefile
-setwd("shapefile directory")
-
 #shapefile name
 world_shp <- "world-administrative-boundaries.shp"
 
@@ -69,7 +63,6 @@ twin_df <- worldgovt %>%
 africa <- left_join(africa_df, twin_df, by = "name")
 
 #retrieve global twinning data
-setwd("directory for world_list_data.xlsx")
 world_data <- read_excel("world_list_data.xlsx")
 
 #merge with global spatial data
@@ -141,9 +134,3 @@ m2 <- lm(StandardTwin ~ LoveHateRatio, data = subset_twin)
 coef(m2)
 confint(m2)
 summary(m2)
-
-
-
-
-
-
