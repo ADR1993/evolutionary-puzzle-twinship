@@ -13,7 +13,10 @@ Authors, contact, affiliation:
 
 The repository contains two R scripts, a series of 40 JPGs representing African countries, a csv file with standardized twinning rates of African countries, an xlsx file with standardized global twinning rates, and a shapefile of [world administrative boundaries](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/information/) from Datasoft, distributed under [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
-### JPGs
+### images.zip
+
+ZIP file containing 40 JPGs used in the maps_and_stats.R script to generate the geminophilia index displayed in Figure 1C in the manuscript and used for regression analysis with twinning rates data.
+The JPGs are scraped from Figure 4 in Fenske and Wang (2023), Tradition and mortality: Evidence from twin infanticide in Africa, Journal of Development Economics, https://doi.org/10.1016/j.jdeveco.2023.103094.
 
 ### world_administrative_boundaries
 
@@ -25,7 +28,7 @@ The spatial dataset is in shapefile format and is composed of 4 files with diffe
 ### twin_rate_data.csv and world_list_data.xlsx
 
 Data on standardized twinning rates of African countries (twin_rate_data.csv) and at the global level (world_list_data.xlsx).
-The data come from Smits J, Monden C (2011) Twinning across the Developing World. PLoS ONE 6(9): e25239. https://doi.org/10.1371/journal.pone.0025239. 
+The data come from Smits and Monden (2011). Twinning across the Developing World. PLoS ONE 6(9): e25239. https://doi.org/10.1371/journal.pone.0025239. 
 
 ### maps_and_stats.R
 
