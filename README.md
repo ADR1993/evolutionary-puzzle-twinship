@@ -11,7 +11,7 @@ Authors, contact, affiliation:
 
 ## Files description
 
-The repository contains two R scripts, a series of JPGs, and a shapefile of [world administrative boundaries](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/information/) from Datasoft.
+The repository contains two R scripts, a series of JPGs, and a shapefile of [world administrative boundaries](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/information/) from Datasoft, distributed under [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 maps_and_stats.R contains the code to generate Figure 1 in the manuscript, as well as the regression analysis included there.
 To do so, it needs to import the files world_list_data.xlsx and twin_rate_data.csv, as well as all the JPGs and the spatial data files (shapefile). 
