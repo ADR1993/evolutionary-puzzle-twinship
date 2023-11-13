@@ -5,7 +5,7 @@ maps_and_stats.R contains the code to generate Figure 1 in the manuscript, as we
 To do so, it needs to import the files world_list_data.xlsx and twin_rate_data.csv, as well as all the JPGs and the spatial data files (shapefile). 
 pregnancy_plot.R generates Figure 3, located in Box 3 of the manuscript.
 
-Citation: Dalla Ragione, A., Ross C.T., and Redhead, D. (2023). The Evolutionary Puzzle of Human Twinship. DOI: (doi here). biorXiv.
+Citation: Dalla Ragione, A., Ross C.T., and Redhead, D. (2023). The Evolutionary Puzzle of Human Twinship. DOI: (doi here). EcoEvoRxiv.
 
 Authors, contact, affiliation:
 - Augusto Dalla Ragione, augusto_dalla_ragione@eva.mpg.de, Max Planck Institute for Evolutionary Anthropology
