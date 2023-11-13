@@ -11,7 +11,7 @@ Authors, contact, affiliation:
 
 ## Files description
 
-The repository contains two R scripts, a series of 40 JPGs representing African countries, a csv file with standardized twinning rates of African countries, an xlsx file with standardized global twinning rates, and a shapefile of [world administrative boundaries](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/information/) from Datasoft, distributed under [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+The repository contains two R scripts, a ZIP file containing 40 JPGs representing African countries and used to construct an index of geminophilia, a csv file with standardized twinning rates of African countries, an xlsx file with standardized global twinning rates, and a global country-level spatial dataset compressed in ZIP format.
 
 ### images.zip
 
