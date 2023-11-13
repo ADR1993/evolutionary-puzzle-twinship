@@ -9,7 +9,9 @@ Authors, contact, affiliation:
 - Cody T. Ross, cody_ross@eva.mpg.de, Max Planck Institute for Evolutionary Anthropology
 - Daniel Redhead, daniel_redhead@eva.mpg.de, Max Planck Institute for Evolutionary Anthropology
 
-## Prova
+## Files description
+
+The repository contains two R scripts, a series of JPGs. 
 
 maps_and_stats.R contains the code to generate Figure 1 in the manuscript, as well as the regression analysis included there.
 To do so, it needs to import the files world_list_data.xlsx and twin_rate_data.csv, as well as all the JPGs and the spatial data files (shapefile). 
