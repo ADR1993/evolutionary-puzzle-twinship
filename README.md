@@ -27,13 +27,13 @@ The spatial dataset is in shapefile format and includes 4 files with different e
 ### twin_rate_data.csv
 
 Data on standardized twinning rates of African countries, used to generate the regression results shown in the caption of Figure 1.
-The data come from Smits and Monden (2011). Twinning across the Developing World. PLoS ONE 6(9): e25239. https://doi.org/10.1371/journal.pone.0025239. 
+The data are openly available in Smits and Monden (2011). Twinning across the Developing World. PLoS ONE 6(9): e25239. https://doi.org/10.1371/journal.pone.0025239. 
 
 ### world_list_data.xlsx
 
 Data on standardized twinning rates at the global level, used to construct the maps of the distribution of twinning rates at the global level and at the African level, in Figure 1.
 The information in twin_rate_data.csv is a subset of the information contained in world_list_data.xlsx.
-The data come from Smits and Monden (2011). Twinning across the Developing World. PLoS ONE 6(9): e25239. https://doi.org/10.1371/journal.pone.0025239. 
+Data come from Smits and Monden (2011). Twinning across the Developing World. PLoS ONE 6(9): e25239. https://doi.org/10.1371/journal.pone.0025239. 
 
 ### maps_and_stats.R
 
