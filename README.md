@@ -18,12 +18,11 @@ The repository contains two R scripts, a series of 40 JPGs representing African 
 ZIP file containing 40 JPGs used in the maps_and_stats.R script to generate the geminophilia index displayed in Figure 1C in the manuscript and used for regression analysis with twinning rates data.
 The JPGs are scraped from Figure 4 in Fenske and Wang (2023), Tradition and mortality: Evidence from twin infanticide in Africa, Journal of Development Economics, https://doi.org/10.1016/j.jdeveco.2023.103094.
 
-### world_administrative_boundaries
+### world-administrative-boundaries.zip
 
-Spatial dataset including global administrative boundaries at the country-level. 
+Compressed spatial dataset of global administrative boundaries at the country-level. 
 Retrieved from [Datasoft](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/information/) and distributed under [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
-The spatial dataset is in shapefile format and is composed of 4 files with different extensions that need to be stored in the same directory: dbf (attributes), prj (projection), shx (shapefile index), and shp (shapefile).
-{{code|.shp}}
+The spatial dataset is in shapefile format and includes 4 files with different extensions that need to be stored in the same directory: .dbf (attributes), .prj (projection), .shx (shapefile index), and .shp (shapefile).
 
 ### twin_rate_data.csv and world_list_data.xlsx
 
