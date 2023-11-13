@@ -24,9 +24,15 @@ Compressed spatial dataset of global administrative boundaries at the country-le
 Retrieved from [Datasoft](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/information/) and distributed under [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 The spatial dataset is in shapefile format and includes 4 files with different extensions that need to be stored in the same directory: .dbf (attributes), .prj (projection), .shx (shapefile index), and .shp (shapefile).
 
-### twin_rate_data.csv and world_list_data.xlsx
+### twin_rate_data.csv
 
-Data on standardized twinning rates of African countries (twin_rate_data.csv) and at the global level (world_list_data.xlsx).
+Data on standardized twinning rates of African countries, used to generate the regression results shown in the caption of Figure 1.
+The data come from Smits and Monden (2011). Twinning across the Developing World. PLoS ONE 6(9): e25239. https://doi.org/10.1371/journal.pone.0025239. 
+
+### world_list_data.xlsx
+
+Data on standardized twinning rates at the global level, used to construct the maps of the distribution of twinning rates at the global level and at the African level, in Figure 1.
+The information in twin_rate_data.csv is a subset of the information contained in world_list_data.xlsx.
 The data come from Smits and Monden (2011). Twinning across the Developing World. PLoS ONE 6(9): e25239. https://doi.org/10.1371/journal.pone.0025239. 
 
 ### maps_and_stats.R
