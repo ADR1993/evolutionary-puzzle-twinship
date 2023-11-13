@@ -1,4 +1,4 @@
-# The evolutionary puzzle of human twinship: data and code
+# Data and code for *The Evolutionary Puzzle of Human Twinship*.
 
 This repository contains the data and code used to generate the plots and maps in *The evolutionary puzzle of human twinship*.
 
