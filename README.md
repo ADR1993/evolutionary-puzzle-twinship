@@ -7,7 +7,7 @@ Citation (pre-print): Dalla Ragione, A., Ross C.T., and Redhead, D. (2023). The 
 Authors, contact, affiliation:
 - Augusto Dalla Ragione, augusto_dalla_ragione@eva.mpg.de, Max Planck Institute for Evolutionary Anthropology
 - Cody T. Ross, cody_ross@eva.mpg.de, Max Planck Institute for Evolutionary Anthropology
-- Daniel Redhead, daniel_redhead@eva.mpg.de, Max Planck Institute for Evolutionary Anthropology
+- Daniel Redhead, daniel_redhead@eva.mpg.de, Max Planck Institute for Evolutionary Anthropology; University of Groningen
 
 ## Files description
 
