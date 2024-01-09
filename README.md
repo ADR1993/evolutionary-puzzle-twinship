@@ -1,6 +1,6 @@
 # Data and code for *The Evolutionary Puzzle of Human Twinship*.
 
-This repository contains the data and code used to generate the plots and maps in *The evolutionary puzzle of human twinship*.
+This repository contains the data and code used to generate the plots and maps in the manuscript *The Evolutionary Puzzle of Human Twinship*.
 
 Citation (pre-print): Dalla Ragione, A., Ross C.T., and Redhead, D. (2023). The Evolutionary Puzzle of Human Twinship. DOI: (doi here). EcoEvoRxiv.
 
