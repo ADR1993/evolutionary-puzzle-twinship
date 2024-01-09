@@ -5,7 +5,7 @@ This repository contains the data and code used to generate the plots and maps i
 Citation (pre-print): Dalla Ragione, A., Ross C.T., and Redhead, D. (2023). The Evolutionary Puzzle of Human Twinship. DOI: [doi.org/10.32942/X2QP5X](https://doi.org/10.32942/X2QP5X). EcoEvoRxiv.
 
 Authors, contact, affiliation:
-- Augusto Dalla Ragione, augusto_dalla_ragione@eva.mpg.de, Max Planck Institute for Evolutionary Anthropology
+- Augusto Dalla Ragione (corresponding author), augusto_dalla_ragione@eva.mpg.de, Max Planck Institute for Evolutionary Anthropology
 - Cody T. Ross, cody_ross@eva.mpg.de, Max Planck Institute for Evolutionary Anthropology
 - Daniel Redhead, daniel_redhead@eva.mpg.de, Max Planck Institute for Evolutionary Anthropology; University of Groningen
 
