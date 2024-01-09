@@ -16,7 +16,7 @@ The repository contains two R scripts, a ZIP file containing 40 JPGs representin
 ### images.zip
 
 ZIP file containing 40 JPGs used in the maps_and_stats R script to generate the geminophilia index displayed in Figure 1C in the manuscript and used for regression analysis with twinning rates data.
-The JPGs were scraped from Figure 4 in Fenske and Wang (2023). Tradition and mortality: Evidence from twin infanticide in Africa. Journal of Development Economics. https://doi.org/10.1016/j.jdeveco.2023.103094, which is distributed under a [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/) license, allowing adaptation and transformation of the content. The grey-scale shading in Figure 4 in Fenske and Wang (2023) was converted to color, so that the percentage of land-area representing groups with different twinship norms could be automatically calcuated using pixel-counting. We use the same 3-category coding scheme used by Fenske and Wang (2023), but we compute country-level summaries to match twin-rate data released by Smits and Monden (2011).
+The JPGs were scraped from Figure 4 in Fenske and Wang (2023). *Tradition and Mortality: Evidence from Twin Infanticide in Africa*. Journal of Development Economics. https://doi.org/10.1016/j.jdeveco.2023.103094, which is distributed under a [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/) license, allowing adaptation and transformation of the content. The grey-scale shading in Figure 4 in Fenske and Wang (2023) was converted to color, so that the percentage of land-area representing groups with different twinship norms could be automatically calcuated using pixel-counting. We use the same 3-category coding scheme used by Fenske and Wang (2023), but we compute country-level summaries to match twin-rate data released by Smits and Monden (2011).
 The original figure is a map representing areas of the African continent mainly inhabited by ethnic groups practicing twin infanticide, with information retrieved from Murdock (1959). Africa: Its People and their Culture History.
 
 ### world-administrative-boundaries.zip
@@ -28,7 +28,7 @@ The spatial dataset is in shapefile format and includes 4 files with different e
 ### twin_rate_data.csv
 
 Data on standardized twinning rates of African countries, used to generate the regression results shown in the caption of Figure 1.
-The data are openly available in Smits and Monden (2011). Twinning across the Developing World. PLoS ONE 6(9): e25239. https://doi.org/10.1371/journal.pone.0025239. 
+The data are openly available in Smits and Monden (2011). *Twinning across the Developing World*. PLoS ONE 6(9): e25239. https://doi.org/10.1371/journal.pone.0025239. 
 
 ### world_list_data.xlsx
 
