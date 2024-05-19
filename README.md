@@ -1,4 +1,4 @@
-# Data and code for *The Evolutionary Puzzle of Human Twinship*.
+# Data and code for *A Gene-Culture Co-Evolutionary Perspective on the Evolutionary Puzzle of Human Twinship*.
 
 This repository contains the data and code used to generate the plots and maps in the manuscript *The Evolutionary Puzzle of Human Twinship*.
 
